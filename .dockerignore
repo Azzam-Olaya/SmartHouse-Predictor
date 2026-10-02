@@ -1,0 +1,11 @@
+.git
+.venv
+.venv313
+__pycache__
+**/__pycache__
+*.py[cod]
+notebooks
+data
+reports
+House_Prices.csv
+data_description.txt
