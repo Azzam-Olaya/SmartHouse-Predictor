@@ -1,0 +1,4 @@
+﻿Modèle,MAE moyenne,RMSE moyenne,R2 moyen
+Gradient Boosting,28874.110052,42803.016904,0.416697
+Random Forest,29093.229899,42847.56163,0.414461
+Linear Regression,30910.228044,45745.028126,0.333977
